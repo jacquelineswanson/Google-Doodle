@@ -5,6 +5,7 @@ This google doodle is going to be set in outer space. I think the first "O" in "
 [Link to Figma Collage](https://www.figma.com/file/FFSUxgSWt1EUycx0l9TiBS/Google-Doodle?node-id=1%3A2)
 
 ## Resources
+[GoogleFont]()
 [spaceshipIcon](https://www.flaticon.com/free-icon/rocket-outer-space-ship_43536)
 [SpaceshipIcon1](https://www.flaticon.com/free-icon/spaceship_2532637)
 [Alien](https://www.flaticon.com/free-icon/ufo_214358)

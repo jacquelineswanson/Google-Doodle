@@ -9,6 +9,9 @@
     outline: 1px dotted black;
 }
 
-body {
-  background: url(../img/android-chrome-512x512.png);
+/* Doodle Stage */
+#stage {
+  background: #ccc;
+  height: 300px;
+  width: 600px;
 }
