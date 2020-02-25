@@ -19,3 +19,11 @@ gsap.from(".star", {
     duration: 1.5,
     
   });
+
+  gsap.to("#satellite", {
+    x: 600,
+    y: -300,
+    delay: 4,
+    duration: 20,
+    
+  });
