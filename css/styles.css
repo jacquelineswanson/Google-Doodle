@@ -5,9 +5,7 @@
   * Outline Elements
 */
 
-* {
-    outline: 1px dotted black;
-}
+
 
 /* Doodle Stage */
 #stage {
@@ -35,6 +33,12 @@
   position: absolute;
   left: 486px;
   top: 171px;
+}
+
+#satellite {
+  position: relative;
+  left: -45px;
+  top: 150px;
 }
 
 
