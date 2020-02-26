@@ -15,12 +15,6 @@ gsap.to("#blackhole", {
   ease: "none"
 });
 
-gsap.to("#ufo",{
-  opacity: 1,
-  delay: 4,
-  duration: 6
-})
-
 gsap.to("#ufo", {
   duration: 20, 
   ease: "back.inOut",
@@ -28,8 +22,42 @@ gsap.to("#ufo", {
   motionPath: "#path",
   yoyo: true,
   scale: 7,
-  repeat: -1,
-  delay: 1
+  repeat: 1,
+  delay: 3
+});
+
+gsap.to("#light", {
+  opacity: 1,
+  duration: 6,
+  delay: 17,
+  yoyo: true,
+  repeat: 1
+  
+});
+
+gsap.to("#google", {
+  scale: 0,
+  delay: 22,
+  duration: 3,
+  y: -150,
+  
+});
+
+gsap.to("#marsmoon", {
+  scale: 0,
+  delay: 22,
+  duration: 3.6,
+  y: -120,
+  x: 17,
+  
+});
+
+gsap.to("#shuttle", {
+  scale: 0,
+  delay: 22,
+  duration: 2.35,
+  y: -110,
+  x: -114,
 });
 
 gsap.to("#satellite", {

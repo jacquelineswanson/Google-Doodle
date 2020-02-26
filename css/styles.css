@@ -23,9 +23,17 @@
 
 #ufo {
   position: absolute;
-  z-index: 1;
+  z-index: 2;
   left: 50px;
-  opacity: 0;
+  transform: scale(0);
+}
+
+#light {
+  position: absolute;
+  z-index: 1;
+  left: 48px;
+  top: 104px;
+  opacity: 0
 }
 
 #blackhole {

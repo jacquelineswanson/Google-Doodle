@@ -16,6 +16,9 @@ This google doodle is going to be set in outer space. I think the first "O" in "
 [SpaceshipIcon3](https://www.flaticon.com/free-icon/spaceship_1086091)
 [Austronaut](https://www.flaticon.com/free-icon/astronaut_1086069)
 [Satellite](https://www.flaticon.com/free-icon/satellite_1086093?term=space&page=1&position=5)
+[blackhole](https://www.flaticon.com/free-icon/black-hole_243577?term=black%20hole&page=1&position=86)
+[Google Logo](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg)
+[Mars](https://www.flaticon.com/free-icon/mars_1086083?term=mars&page=1&position=9)
 
 ## Collage Resource
 [Cosmos](https://www.ebay.com.au/c/6003301305)
