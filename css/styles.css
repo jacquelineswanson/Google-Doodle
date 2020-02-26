@@ -17,6 +17,23 @@
   background-image: linear-gradient(to bottom left, #080232, #452145);
 }
 
+#motionpath {
+  position: absolute;
+}
+
+#ufo {
+  position: absolute;
+  z-index: 1;
+  left: 50px;
+  opacity: 0;
+}
+
+#blackhole {
+  position: absolute;
+  left: 730px;
+  top: 89px;
+}
+
 #google {
   position: absolute;
   left: 140px;
@@ -33,12 +50,13 @@
   position: absolute;
   left: 486px;
   top: 171px;
+  z-index: 1;
 }
 
 #satellite {
   position: relative;
   left: -45px;
-  top: 150px;
+  top: 300px;
 }
 
 
